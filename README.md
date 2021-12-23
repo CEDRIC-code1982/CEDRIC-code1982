@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World ! 👋
+
+## A propos de moi 
+
+Je suis développeur Fullstack Javascript React / React Native / Node js
+
+J'ai une forte appétence pour le front-end que ce soit côté web ou application mobile.
 
 <!--
 **CEDRIC-code1982/CEDRIC-code1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
