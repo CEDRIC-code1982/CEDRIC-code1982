@@ -2,7 +2,7 @@
 
 ## A propos de moi 
 
-Je suis développeur Fullstack Javascript React / React Native / Node js
+Je suis développeur Fullstack Javascript / React / React Native / Node js
 
 J'ai une forte appétence pour le front-end que ce soit côté web ou application mobile.
 
